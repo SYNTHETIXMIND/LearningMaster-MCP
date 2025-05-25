@@ -1,0 +1,22 @@
+# Ignore artifacts:
+build
+dist
+coverage
+node_modules
+
+# Ignore version control directories:
+.git
+
+# Ignore lockfiles
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Ignore specific configuration files if managed elsewhere or sensitive
+.env
+*.env
+*.local
+
+# Taskmaster specific (if any generated files shouldn't be formatted)
+tasks/*.txt 
+memory-bank/
