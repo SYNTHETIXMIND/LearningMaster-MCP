@@ -4,12 +4,12 @@
 			"command": "npx",
 			"args": ["-y", "--package=task-master-ai", "task-master-ai"],
 			"env": {
-				"ANTHROPIC_API_KEY": "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",
-				"PERPLEXITY_API_KEY": "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",
-				"OPENAI_API_KEY": "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",
-				"GOOGLE_API_KEY": "AIzaSyCeS7C-Y5JWgycb7F3_tsmVgydcSM0_v5g",
-				"MISTRAL_API_KEY": "ierKXIXA3d4s9jLRTEM0WmalLOzjoJjc",
-				"OPENROUTER_API_KEY": "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"				
+				"ANTHROPIC_API_KEY": "YOUR_ANTHROPIC_API_KEY_HERE",
+				"PERPLEXITY_API_KEY": "YOUR_PERPLEXITY_API_KEY_HERE",
+				"OPENAI_API_KEY": "YOUR_OPENAI_API_KEY_HERE",
+				"GOOGLE_API_KEY": "YOUR_GOOGLE_API_KEY_HERE",
+				"MISTRAL_API_KEY": "YOUR_MISTRAL_API_KEY_HERE",
+				"OPENROUTER_API_KEY": "YOUR_OPENROUTER_API_KEY_HERE"				
 			}
 		}
   }
