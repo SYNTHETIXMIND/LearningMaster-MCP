@@ -23,7 +23,7 @@ This project is designed to... (TODO: Add a brief overview of the project based 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Thomas Dobler - SYNTHETIXMIND LTD/LearningMaster-MCP.git
+   git clone https://github.com/SYNTHETIXMIND/LearningMaster-MCP.git
    ```
 2. Navigate to the project directory:
    ```bash
